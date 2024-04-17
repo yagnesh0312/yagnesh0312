@@ -77,21 +77,21 @@ TakeCare is a mobile application developed using Flutter, designed to simplify t
 
 ## Screenshots
 
-![App Screenshots](images\tc\images\a_Page23.jpg)
-![App Screenshots](images\tc\images\a_Page24.jpg)
-![App Screenshots](images\tc\images\a_Page25.jpg)
-![App Screenshots](images\tc\images\a_Page26.jpg)
-![App Screenshots](images\tc\images\a_Page27.jpg)
-![App Screenshots](images\tc\images\tc_Page29.jpg)
-![App Screenshots](images\tc\images\tc_Page30.jpg)
-![App Screenshots](images\tc\images\tc_Page31.jpg)
-![App Screenshots](images\tc\images\tc_Page32.jpg)
-![App Screenshots](images\tc\images\tc_Page33.jpg)
-![App Screenshots](images\tc\images\tc_Page34.jpg)
-![App Screenshots](images\tc\images\tc_Page35.jpg)
-![App Screenshots](images\tc\images\tc_Page36.jpg)
-![App Screenshots](images\tc\images\tc_Page37.jpg)
-![App Screenshots](images\tc\images\tc_Page38.jpg)
+<img src="images\tc\images\a_Page23.jpg"/>
+<img src="images\tc\images\a_Page24.jpg"/>
+<img src="images\tc\images\a_Page25.jpg"/>
+<img src="images\tc\images\a_Page26.jpg"/>
+<img src="images\tc\images\a_Page27.jpg"/>
+<img src="images\tc\images\tc_Page29.jpg"/>
+<img src="images\tc\images\tc_Page30.jpg"/>
+<img src="images\tc\images\tc_Page31.jpg"/>
+<img src="images\tc\images\tc_Page32.jpg"/>
+<img src="images\tc\images\tc_Page33.jpg"/>
+<img src="images\tc\images\tc_Page34.jpg"/>
+<img src="images\tc\images\tc_Page35.jpg"/>
+<img src="images\tc\images\tc_Page36.jpg"/>
+<img src="images\tc\images\tc_Page37.jpg"/>
+<img src="images\tc\images\tc_Page38.jpg"/>
 
 ## Acknowledgments
 
