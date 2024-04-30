@@ -1,10 +1,10 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=200px style="border-radius:350px;box-shadow:10px 10px 500px black;border:4px solid white" src="https://avatars.githubusercontent.com/u/83078597?v=4" alt="Project logo"></a>
+ <img height=200px style="border-radius:350px;box-shadow:00px 0px 80px black;border:4px solid white" src="https://avatars.githubusercontent.com/u/83078597?v=4" alt="Project logo"></a>
 </p>
 
 <div style="font-size:40px;font-weight:800" align="center">Hey I am,</div>
-<div style="font-size:20px;font-weight:500;color:#06b5ff;letter-spacing: 6px;text-shadow: 2px 2px 40px #c0c0c0" align="center">YAGNESH JARIWALA</div>
+<div style="font-size:20px;font-weight:500;color:#06b5ff;letter-spacing: 6px;text-shadow: 2px 2px 40px #000000" align="center">YAGNESH JARIWALA</div>
 
 ---
 
@@ -12,6 +12,7 @@
 
 ## 👨‍💻 Language
 
+<p>
 <img height=50px  src="./images/c.png" alt="Project logo">
 <img height=50px  src="./images/dart.png" alt="Project logo">
 <img height=50px  src="./images/css.png" alt="Project logo">
@@ -20,14 +21,18 @@
 <img height=50px  src="./images/java.png" alt="Project logo">
 <img height=50px  src="./images/php.png" alt="Project logo">
 <img height=50px  src="./images/python.png" alt="Project logo">
-
+</p>
 ## 👨‍💻 Framework
+<p>
 
 <img height=50px  src="./images/asp.png" alt="Project logo">
 <img height=50px  src="./images/flutter.png" alt="Project logo">
 <img height=50px  src="./images/android.png" alt="Project logo">
+</p>
 
 ## 👨‍💻 Database
+
+<p>
 
 <img height=50px  src="./images/firebase.png" alt="Project logo">
 <img height=50px  src="./images/mysql.png" alt="Project logo">
@@ -110,6 +115,8 @@ BillBox is an innovative billing system designed to streamline the process of ge
 
 ## 🏁 ScreenShots <a name = "Examples"></a>
 
+<p>
+
 <img height=150px src="images\bb\a.png"/>
 <img height=150px src="images\bb\b.png"/>
 <img height=150px src="images\bb\c.png"/>
@@ -127,6 +134,7 @@ BillBox is an innovative billing system designed to streamline the process of ge
 <img height=150px src="images\bb\IMG-20240416-WA0015.jpg"/>
 <img height=150px src="images\bb\IMG-20240416-WA0016.jpg"/>
 <img height=150px src="images\bb\IMG-20240416-WA0017.jpg"/>
+</p>
 
 ## 🎈 Usage <a name="usage"></a>
 
@@ -243,6 +251,8 @@ Are you tired of cumbersome messaging apps that clutter your screen and complica
 
 ## 🏁 Screenshots <a name = "getting_started"></a>
 
+<p>
+
 <img height=150px src="images\chat\a.jpg"/>
 <img height=150px src="images\chat\b.jpg"/>
 <img height=150px src="images\chat\c.jpg"/>
@@ -250,6 +260,7 @@ Are you tired of cumbersome messaging apps that clutter your screen and complica
 <img height=150px src="images\chat\e.jpg"/>
 <img height=150px src="images\chat\f.jpg"/>
 <img height=150px src="images\chat\gg.jpg"/>
+</p>
 
 ---
 
