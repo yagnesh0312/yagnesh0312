@@ -75,24 +75,6 @@ TakeCare is a mobile application developed using Flutter, designed to simplify t
 - **Flutter:** UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - **Dart:** Programming language optimized for building mobile, desktop, server, and web applications.
 
-## Screenshots
-
-<img src="images\tc\images\a_Page23.jpg"/>
-<img src="images\tc\images\a_Page24.jpg"/>
-<img src="images\tc\images\a_Page25.jpg"/>
-<img src="images\tc\images\a_Page26.jpg"/>
-<img src="images\tc\images\a_Page27.jpg"/>
-<img src="images\tc\images\tc_Page29.jpg"/>
-<img src="images\tc\images\tc_Page30.jpg"/>
-<img src="images\tc\images\tc_Page31.jpg"/>
-<img src="images\tc\images\tc_Page32.jpg"/>
-<img src="images\tc\images\tc_Page33.jpg"/>
-<img src="images\tc\images\tc_Page34.jpg"/>
-<img src="images\tc\images\tc_Page35.jpg"/>
-<img src="images\tc\images\tc_Page36.jpg"/>
-<img src="images\tc\images\tc_Page37.jpg"/>
-<img src="images\tc\images\tc_Page38.jpg"/>
-
 ## Acknowledgments
 
 - Special thanks to the contributors who have dedicated their time and effort to make TakeCare a valuable resource for users seeking healthcare services.
@@ -125,26 +107,6 @@ Feel free to reach out if you have any questions or concerns. Happy coding!
 ## 🧐 About <a name = "about"></a>
 
 BillBox is an innovative billing system designed to streamline the process of generating and managing bills for small-scale businesses. With its intuitive Android and desktop applications, BillBox offers users a convenient platform to create, view, and organize online bills effortlessly.
-
-## 🏁 ScreenShots <a name = "Examples"></a>
-
-<img height=150px src="images\bb\a.png"/>
-<img height=150px src="images\bb\b.png"/>
-<img height=150px src="images\bb\c.png"/>
-<img height=150px src="images\bb\d.png"/>
-<img height=150px src="images\bb\e.png"/>
-<img height=150px src="images\bb\f.png"/>
-<img height=150px src="images\bb\g.png"/>
-<img height=150px src="images\bb\h.png"/>
-<img height=150px src="images\bb\IMG-20240416-WA0009.jpg"/>
-<img height=150px src="images\bb\IMG-20240416-WA0010.jpg"/>
-<img height=150px src="images\bb\IMG-20240416-WA0011.jpg"/>
-<img height=150px src="images\bb\IMG-20240416-WA0012.jpg"/>
-<img height=150px src="images\bb\IMG-20240416-WA0013.jpg"/>
-<img height=150px src="images\bb\IMG-20240416-WA0014.jpg"/>
-<img height=150px src="images\bb\IMG-20240416-WA0015.jpg"/>
-<img height=150px src="images\bb\IMG-20240416-WA0016.jpg"/>
-<img height=150px src="images\bb\IMG-20240416-WA0017.jpg"/>
 
 ## 🎈 Usage <a name="usage"></a>
 
