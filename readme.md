@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Yagnesh jariwala</h1>
+<h1 align="center">Hi 👋, I'm  Yagnesh Jariwala</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
 - 🔭 I’m currently working on **Bill Box**
 
-- 🌱 I’m currently learning **react native**
+- 🌱 I’m currently learning **react native and Unreal engine 5**
 
-- 👯 I’m looking to collaborate on **takecare**
 
-- 💬 Ask me about **react native or react js**
+- 💬 Ask me about **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/yagnesh jariwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yagnesh jariwala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yagnesh-jariwala-70273128b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yagnesh-jariwala-70273128b/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_yagnesh_jariwala_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_yagnesh_jariwala_" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/yagnesh-jariwala-70273128b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yagnesh-jariwala-70273128b/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_yagnesh_jariwala_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_yagnesh_jariwala_" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
