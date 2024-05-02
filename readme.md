@@ -72,6 +72,7 @@ Feel free to reach out if you have any questions or concerns. Happy coding!
 ---
 
 ![BillBox Image](./images/billbox.png)
+![BillBox Image](./images/desktop.png)
 
 <h3 align="center"> Bill management system</h3>
 
