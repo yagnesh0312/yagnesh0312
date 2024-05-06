@@ -166,8 +166,9 @@ This project is build in flutter you need to install flutter
 Dijkstra's algorithm efficiently finds the shortest path from a source node to all other nodes in a graph with non-negative edge weights, using a priority queue to greedily select the next node with the smallest tentative distance. It terminates when all nodes have been visited, providing the shortest paths and distances.
 
 ## 🎥 Demo <a name = "demo"></a>
+![Working](/images/dij/image.png)
 
-![Working](https://github.com/yagnesh0312/find_shortest_path_flutter/blob/main/lib/abc.jpg?raw=true)
+![Working](/images/dij/video.gif)
 
 ## 💭 How it works <a name = "working"></a>
 
