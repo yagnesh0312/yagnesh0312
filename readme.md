@@ -71,8 +71,6 @@ Feel free to reach out if you have any questions or concerns. Happy coding!
 
 ---
 <p>
-<img src="./images/billbox.png" />
-<img src="./images/desktop.png" />
 <img src="./images/bb/bb%20(1).png" />
 <img src="./images/bb/bb%20(2).png" />
 <img src="./images/bb/bb%20(3).png" />
