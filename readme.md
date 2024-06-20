@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm  Yagnesh Jariwala</h1>
+
+<img src="images/portfolio.png">
+
 <h3 align="center">A passionate flutter developer from India</h3>
 
 - 🔭 I’m currently working on **Bill Box**
@@ -71,29 +74,29 @@ Feel free to reach out if you have any questions or concerns. Happy coding!
 
 ---
 <p>
-<img src="./images/bb/bb%20(1).png" />
-<img src="./images/bb/bb%20(2).png" />
-<img src="./images/bb/bb%20(3).png" />
-<img src="./images/bb/bb%20(4).png" />
-<img src="./images/bb/bb%20(5).png" />
-<img src="./images/bb/bb%20(6).png" />
-<img src="./images/bb/bb%20(7).png" />
-<img src="./images/bb/bb%20(8).png" />
-<img src="./images/bb/bb%20(9).png" />
-<img src="./images/bb/bb%20(10).png" />
-<img src="./images/bb/bb%20(11).png" />
-<img src="./images/bb/bb%20(12).png" />
-<img src="./images/bb/bb%20(13).png" />
-<img src="./images/bb/bb%20(14).png" />
-<img src="./images/bb/bb%20(15).png" />
-<img src="./images/bb/bb%20(16).png" />
-<img src="./images/bb/bb%20(17).png" />
-<img src="./images/bb/bb%20(18).png" />
-<img src="./images/bb/bb%20(19).png" />
-<img src="./images/bb/bb%20(20).png" />
-<img src="./images/bb/bb%20(21).png" />
-<img src="./images/bb/bb%20(22).png" />
-<img src="./images/bb/bb%20(23).png" />
+<img width="50%" src="./images/bb/bb%20(1).png" />
+<img width="50%" src="./images/bb/bb%20(2).png" />
+<img width="50%" src="./images/bb/bb%20(3).png" />
+<img width="50%" src="./images/bb/bb%20(4).png" />
+<img width="50%" src="./images/bb/bb%20(5).png" />
+<img width="50%" src="./images/bb/bb%20(6).png" />
+<img width="50%" src="./images/bb/bb%20(7).png" />
+<img width="50%" src="./images/bb/bb%20(8).png" />
+<img width="50%" src="./images/bb/bb%20(9).png" />
+<img width="50%" src="./images/bb/bb%20(10).png" />
+<img width="50%" src="./images/bb/bb%20(11).png" />
+<img width="50%" src="./images/bb/bb%20(12).png" />
+<img width="50%" src="./images/bb/bb%20(13).png" />
+<img width="50%" src="./images/bb/bb%20(14).png" />
+<img width="50%" src="./images/bb/bb%20(15).png" />
+<img width="50%" src="./images/bb/bb%20(16).png" />
+<img width="50%" src="./images/bb/bb%20(17).png" />
+<img width="50%" src="./images/bb/bb%20(18).png" />
+<img width="50%" src="./images/bb/bb%20(19).png" />
+<img width="50%" src="./images/bb/bb%20(20).png" />
+<img width="50%" src="./images/bb/bb%20(21).png" />
+<img width="50%" src="./images/bb/bb%20(22).png" />
+<img width="50%" src="./images/bb/bb%20(23).png" />
 </p>
 <h3 align="center"> Bill management system</h3>
 
