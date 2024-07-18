@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Yagnesh Jariwala</h1>
+
 
 <img src="images/portfolio.png">
 
